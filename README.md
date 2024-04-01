@@ -1,3 +1,6 @@
+https://gmcomputereducation.netlify.app/
+
+
 In response to G.M. Computer Education's needs, I designed a minimalist static website highlighting their courses and providing a comprehensive overview to attract customers. The inclusion of location details enhances accessibility, strategically positioning the institution for increased visibility and engagement. This project amalgamates aesthetic appeal with functional utility, reflecting a harmonious synergy of design and purpose. By leveraging this digital platform, G.M. Computer Education extends its reach and relevance in the competitive educational landscape, fostering connections with potential students and stakeholders. This endeavor signifies a pivotal step towards enhancing the institution's online presence and facilitating growth opportunities in the digital sphere.
 
 ![Screenshot 2024-04-01 at 2 45 04 PM](https://github.com/NisargPatelDev/gmce.com/assets/80249414/4c953c59-2e1d-48b5-be7c-c6eb291bf0cf)
